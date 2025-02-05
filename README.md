@@ -84,7 +84,7 @@ PR 생성 시, 아래의 규칙에 맞게 제목 및 라벨을 적절히 추가�
 ## 🖌️&nbsp;&nbsp;출제 담당 요일
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Study|[조세은](https://github.com/ariel-ssen)|[양병운](https://github.com/Yang-ByeongUn)|[허지웅](https://github.com/kiki1875b)|[백승헌](https://github.com/FrogBaek)|[이원길](https://github.com/realitsyourman)|[김태현](https://github.com/9taetae9)|
+|Study|[조세은](https://github.com/ariel-ssen)|[양병운](https://github.com/Yang-ByeongUn)|[허지웅](https://github.com/kiki1875b)|[백승헌](https://github.com/FrogBaek)|[김태현](https://github.com/9taetae9)|[김태현](https://github.com/9taetae9)|
 
 ---
 
